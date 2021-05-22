@@ -16,13 +16,13 @@ Info ={
 
 
 
-###  Top languages
+###  Top languages❤️
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh2311)](https://github.com/vignesh2311/github-readme-stats)
 
 
-### Languages I Love❤️
+### I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
