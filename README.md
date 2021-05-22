@@ -20,3 +20,5 @@ Info ={
 
 <br />
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh2311&langs_count=8)](https://github.com/vignesh2311/github-readme-stats)
+
